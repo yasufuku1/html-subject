@@ -1,1 +1,1 @@
-DMM WEBCAMP[HTML/CSSを学ぼう]の[課題１：レスポンシブ対応させよう」です。
+DMM WEBCAMP[HTML/CSSを学ぼう]の[課題１：レスポンシブ対応させよう」になります。

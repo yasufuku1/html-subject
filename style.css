@@ -49,7 +49,7 @@ main {
   color: #fff;
 }
 .site-title {
-  padding: 15px 0 5px;
+  margin: 15px 0 5px;
 }
 footer {
   height: 50px;
@@ -70,7 +70,6 @@ footer {
     margin-left: auto;
   }
   .site-box:last-child {
-    margin-bottom: 50px;
     margin-right: auto;
     margin-left: auto;
   }
